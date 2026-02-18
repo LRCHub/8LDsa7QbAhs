@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Never Let Go",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-18T15:32:19.202340Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Never_Let_Go_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_Never_Let_Go_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Camel",
+      "has_synced": true,
+      "path": "select/03_Never_Let_Go_Camel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Camel",
+      "has_synced": true,
+      "path": "select/04_Never_Let_Go_Camel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Let Go (single version)",
+      "artist": "Camel",
+      "has_synced": false,
+      "path": "select/05_Never_Let_Go_(single_version)_Camel.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Chumbawamba",
+      "has_synced": false,
+      "path": "select/06_Never_Let_Go_Chumbawamba.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Never Let Go",
+      "artist": "Snow Patrol",
+      "has_synced": true,
+      "path": "select/07_I'll_Never_Let_Go_Snow_Patrol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I’ll Never Let Go",
+      "artist": "Snow Patrol",
+      "has_synced": true,
+      "path": "select/08_I’ll_Never_Let_Go_Snow_Patrol.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Camel",
+      "has_synced": false,
+      "path": "select/09_Never_Let_Go_Camel.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Plastik Funk feat. Sickrate, Rentz & Repiet",
+      "has_synced": true,
+      "path": "select/10_Never_Let_Go_Plastik_Funk_feat._Sickrate,_Rentz_&_Repiet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Plastik Funk",
+      "has_synced": true,
+      "path": "select/11_Never_Let_Go_Plastik_Funk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never Let Go of the Microscope",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/12_Never_Let_Go_of_the_Microscope_Enter_Shikari.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Josh Groban",
+      "has_synced": true,
+      "path": "select/13_Never_Let_Go_Josh_Groban.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never Let Go (With Deep Forest)",
+      "artist": "Josh Groban",
+      "has_synced": false,
+      "path": "select/14_Never_Let_Go_(With_Deep_Forest)_Josh_Groban.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Let Go (feat. Deep Forest)",
+      "artist": "Josh Groban",
+      "has_synced": true,
+      "path": "select/15_Never_Let_Go_(feat._Deep_Forest)_Josh_Groban.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/16_Never_Let_Go_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Never Let Go",
+      "artist": "H.e.a.t",
+      "has_synced": true,
+      "path": "select/17_Never_Let_Go_H.e.a.t.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Let Go",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Let_Go_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Never Let Go",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Never_Let_Go_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Never Let Go",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Never_Let_Go_宇多田_ヒカル.txt"
+    }
+  ]
+}
